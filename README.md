@@ -1,3 +1,15 @@
+# Retired Hypothesis Testing Project
+- I've resurrected this old hypothesis testing project and have added the Hypothesis Testing slides, hypothesis testing workflow notebook, and a starter `student.ipynb`
+
+- The project summary is as follows:
+
+>The goal of your project is to query the database to get the data needed to perform a statistical analysis. In this statistical analysis, you'll need to perform a hypothesis test (or perhaps several) to answer the following question:<br><br>
+**_Do discounts have a statistically significant effect on the number of products customers order? If so, at what level(s) of discount?_**<br><br>
+In addition to answering this question with a hypothesis test, you will also need to come up with **_at least 3 other hypotheses to test on your own_**.  These can by anything that you think could be imporant information for the company. <br><br>
+For this hypothesis, be sure to specify both the **_null hypothesis_** and the **_alternative hypothesis_** for your question.  You should also specify if this is one-tail or a two-tail test. 
+
+- Original README continued below...
+___
 
 # Module 2 Final Project Specifications
 
